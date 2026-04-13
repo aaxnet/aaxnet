@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I design and build scalable web applications, developer tooling, and clean backend systems with a focus on performance, simplicity, and maintainability.
+  I build scalable web applications, backend systems, and developer tools with a focus on performance, clarity, and maintainability.
 </p>
 
 <p align="center">
@@ -23,23 +23,16 @@
 
 - Building modern web experiences and backend systems
 - Focused on distributed systems, APIs, and developer experience
-- Currently exploring WebAssembly and eBPF
+- Exploring WebAssembly and eBPF
 - Strong interest in clean architecture and scalable product design
 
 ---
 
 ## Tech Stack
 
-### Frontend
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
-
-### Backend
-`Node.js` · `Go` · `Rust` · `PostgreSQL`
-
-### DevOps
-`Docker` · `Kubernetes` · `GitHub Actions`
-
-### Tools
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`  
+`Node.js` · `Go` · `Rust` · `PostgreSQL`  
+`Docker` · `Kubernetes` · `GitHub Actions`  
 `Vim` · `Linux` · `Git` · `REST` · `GraphQL`
 
 ---
@@ -51,29 +44,19 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaxnet&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaxnet&theme=github-dark-blue&hide_border=true" />
-</p>
-
 ---
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/aaxnet/turbo-cache">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaxnet&repo=turbo-cache&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/aaxnet/apicraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaxnet&repo=apicraft&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+- [turbo-cache](https://github.com/aaxnet/turbo-cache)
+- [apicraft](https://github.com/aaxnet/apicraft)
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaxnet&theme=radical&no-frame=true&margin-w=10" />
+  <em>Activity graph removed for stability.</em>
 </p>
 
 <p align="center">
