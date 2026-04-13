@@ -1,63 +1,68 @@
-<h1 align="center">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="28" />
-  Hi, I'm aaxnet
-</h1>
+<h1 align="center">aaxnet</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Open Source Enthusiast · Builder of Developer Tools</b>
+  <b>Full-Stack Engineer · Systems Builder · Open Source Developer</b>
 </p>
 
 <p align="center">
-  I build scalable web applications, backend systems, and developer tools with a focus on performance, clarity, and maintainability.
+  I design and build fast, scalable and maintainable systems — from backend architecture to developer tooling.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> About Me
+## About
 
-- Building modern web experiences and backend systems
-- Focused on APIs, distributed systems, and developer experience
-- Exploring WebAssembly, eBPF, and low-level tooling
-- Strong interest in clean architecture and scalable product design
+- Backend systems, APIs, distributed architecture
+- Developer tooling & automation
+- Security research & protocol analysis
+- Performance-first engineering mindset
 
 ---
 
-## <img src="https://cdn.simpleicons.org/devdotto/ffffff" width="18" /> Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,go,rust,postgres,docker,kubernetes,githubactions,linux,vim,git" />
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,python,nodejs,fastapi,postgres,docker,kubernetes,linux,git" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> Featured Projects
+## Selected Work
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **turbo-cache** | TypeScript, Node.js | High-performance cache tooling |
-| **apicraft** | TypeScript, APIs | API development and automation toolkit |
-| **AyuGram plugin** | Python, Java, Chaquopy | Plugin system integration for Android Telegram client |
-| **MTProto proxy** | Python, asyncio, AES-256-CTR | Custom MTProto proxy with SOCKS5 fallback |
-| **Alive? bot** | aiogram, APScheduler, SQLite | Encrypted Telegram check-in bot |
-| **Full Cleaner** | C#, .NET 8 | Minimalist Windows system maintenance tool |
-| **Telega audit** | Python, HTML | Security research on Telegram client capabilities |
+| Project | Focus |
+|--------|------|
+| **turbo-cache** | High-performance caching system |
+| **apicraft** | API tooling & automation platform |
+| **MTProto proxy** | Low-level networking & protocol handling |
+| **Alive bot** | Secure Telegram automation system |
+| **Full Cleaner** | Lightweight Windows system utility |
+| **Telega audit** | Telegram client security research |
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> GitHub Stats
+## Focus Areas
+
+| Domain | Description |
+|-------|-------------|
+| Systems | Scalable backend architecture, distributed systems |
+| Security | Protocol analysis, reverse engineering, client auditing |
+| Automation | Bots, schedulers, infrastructure tooling |
+| Platforms | Telegram ecosystem, Android tooling, APIs |
+
+---
+
+## GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aaxnet&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaxnet&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aaxnet&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaxnet&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -66,20 +71,6 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> Focus Areas
-
-| Area | Details |
-|------|---------|
-| **Telegram ecosystem** | Bots, MTProto internals, client modifications, proxy infrastructure |
-| **Security research** | APK auditing, protocol analysis, MITM detection, reverse engineering |
-| **Android tooling** | Plugin systems via Chaquopy, AyuGram / ExterGram development |
-| **Backend automation** | asyncio, aiogram, FastAPI, SQLite, scheduled tasks |
-| **Desktop utilities** | Windows maintenance tools, system-level scripting in C# / PowerShell |
-
----
-
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> Activity
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaxnet&color=blueviolet&style=flat-square&label=profile+views" />
+  Minimal. Fast. Precise.
 </p>
