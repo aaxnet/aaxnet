@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm aaxnet 👋</h1>
+<h1 align="center">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="28" />
+  Hi, I'm aaxnet
+</h1>
 
 <p align="center">
   <b>Full-Stack Developer · Open Source Enthusiast · Builder of developer tools</b>
@@ -19,25 +22,34 @@
 
 ---
 
-## About Me
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> About Me
 
-- Building modern web experiences and backend systems
-- Focused on distributed systems, APIs, and developer experience
-- Exploring WebAssembly and eBPF
-- Strong interest in clean architecture and scalable product design
+<table>
+  <tr>
+    <td>Building modern web experiences and backend systems</td>
+  </tr>
+  <tr>
+    <td>Focused on distributed systems, APIs, and developer experience</td>
+  </tr>
+  <tr>
+    <td>Exploring WebAssembly and eBPF</td>
+  </tr>
+  <tr>
+    <td>Strong interest in clean architecture and scalable product design</td>
+  </tr>
+</table>
 
 ---
 
-## Tech Stack
+## <img src="https://cdn.simpleicons.org/devdotto/ffffff" width="18" /> Tech Stack
 
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`  
-`Node.js` · `Go` · `Rust` · `PostgreSQL`  
-`Docker` · `Kubernetes` · `GitHub Actions`  
-`Vim` · `Linux` · `Git` · `REST` · `GraphQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,go,rust,postgres,docker,kubernetes,githubactions,linux,vim,git" />
+</p>
 
 ---
 
-## GitHub Stats
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aaxnet&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -46,17 +58,17 @@
 
 ---
 
-## Featured Projects
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> Featured Projects
 
 - [turbo-cache](https://github.com/aaxnet/turbo-cache)
 - [apicraft](https://github.com/aaxnet/apicraft)
 
 ---
 
-## GitHub Activity
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="18" /> GitHub Activity
 
 <p align="center">
-  <em>Activity graph removed for stability.</em>
+  <em>Kept minimal for stability.</em>
 </p>
 
 <p align="center">
