@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="aaxnet banner"/>
+  <img src="./banner.svg" width="100%" alt="aaxnet banner" />
 </div>
 
 <h1 align="center">aaxnet</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer · Systems Builder · Open Source Developer</b>
+  <b>Full-Stack Engineer · Systems Architect · Open Source Builder</b>
 </p>
 
 <p align="center">
-  I design and build fast, scalable and maintainable systems — from backend architecture to developer tooling.
+  I build fast, scalable, and maintainable systems — with a focus on architecture, performance, and clean engineering.
 </p>
 
 <p align="center">
@@ -23,10 +23,12 @@
 
 ## About
 
-- Backend systems, APIs, distributed architecture
-- Developer tooling & automation
-- Security research & protocol analysis
-- Performance-first engineering mindset
+Focused on building systems that are reliable, efficient, and easy to extend.
+
+- Backend architecture and APIs
+- Developer tooling and automation
+- Security research and protocol analysis
+- Performance-first engineering
 
 ---
 
@@ -43,8 +45,8 @@
 | Project | Focus |
 |--------|------|
 | **turbo-cache** | High-performance caching system |
-| **apicraft** | API tooling & automation platform |
-| **MTProto proxy** | Low-level networking & protocol handling |
+| **apicraft** | API tooling and automation platform |
+| **MTProto proxy** | Low-level networking and protocol handling |
 | **Alive bot** | Secure Telegram automation system |
 | **Full Cleaner** | Lightweight Windows system utility |
 | **Telega audit** | Telegram client security research |
@@ -55,14 +57,14 @@
 
 | Domain | Description |
 |-------|-------------|
-| Systems | Scalable backend architecture, distributed systems |
-| Security | Protocol analysis, reverse engineering, client auditing |
-| Automation | Bots, schedulers, infrastructure tooling |
-| Platforms | Telegram ecosystem, Android tooling, APIs |
+| Systems | Scalable backend architecture and distributed systems |
+| Security | Protocol analysis, reverse engineering, and client auditing |
+| Automation | Bots, schedulers, and infrastructure tooling |
+| Platforms | Telegram ecosystem, Android tooling, and APIs |
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=aaxnet&show_icons=true&theme=github_dark&hide_border=true" />
@@ -76,5 +78,5 @@
 ---
 
 <p align="center">
-  Minimal. Fast. Precise.
+  Minimal. Precise. Built to last.
 </p>
