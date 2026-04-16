@@ -53,12 +53,9 @@
 
 | project | stack | description |
 |---------|-------|-------------|
-| [**turbo-cache**](https://github.com/aaxnet) | `Go` | High-performance caching system |
-| [**apicraft**](https://github.com/aaxnet) | `TypeScript` | API tooling and automation platform |
-| [**mtproto-proxy**](https://github.com/aaxnet) | `Python` | Low-level MTProto networking & protocol handling |
-| [**alive-bot**](https://github.com/aaxnet) | `Python` | Secure Telegram check-in automation |
-| [**full-cleaner**](https://github.com/aaxnet) | `PowerShell` | Lightweight Windows system utility |
-| [**telega-audit**](https://github.com/aaxnet) | `Python` | Security research on Telegram clients |
+| [**vk_api**](https://github.com/aaxnet/vk_api) | `Python` | VKontakte API wrapper for building VK scripts and bots |
+| [**issuesheriff**](https://github.com/aaxnet/issuesheriff) | `Python` | AI-powered GitHub issue triage — labels, dedup, auto-reply via CLI or Action |
+| [**discord-quest-master**](https://github.com/aaxnet/discord-quest-master) | `JavaScript` | Auto-complete Discord quests · bilingual RU/EN · browser & desktop |
 
 ---
 
