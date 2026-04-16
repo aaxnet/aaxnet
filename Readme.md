@@ -1,82 +1,80 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="aaxnet banner" />
+
+```
+██████╗ ██████╗ ██╗  ██╗███╗   ██╗███████╗████████╗
+██╔══██╗██╔══██╗╚██╗██╔╝████╗  ██║██╔════╝╚══██╔══╝
+███████║███████║ ╚███╔╝ ██╔██╗ ██║█████╗     ██║   
+██╔══██║██╔══██║ ██╔██╗ ██║╚██╗██║██╔══╝     ██║   
+██║  ██║██║  ██║██╔╝ ██╗██║ ╚████║███████╗   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
+```
+
 </div>
 
-<h1 align="center">aaxnet</h1>
+<div align="center">
+  <samp>
+    full-stack engineer &nbsp;·&nbsp; systems architect &nbsp;·&nbsp; open source
+  </samp>
+</div>
 
-<p align="center">
-  <b>Full-Stack Engineer · Systems Architect · Open Source Builder</b>
-</p>
+<br />
 
-<p align="center">
-  I build fast, scalable, and maintainable systems — with a focus on architecture, performance, and clean engineering.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## About
-
-Focused on building systems that are reliable, efficient, and easy to extend.
-
-- Backend architecture and APIs
-- Developer tooling and automation
-- Security research and protocol analysis
-- Performance-first engineering
+<div align="center">
+  <a href="https://github.com/aaxnet">
+    <img src="https://img.shields.io/badge/-aaxnet-000?style=flat-square&logo=github&logoColor=fff" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=aaxnet&style=flat-square&color=000000&label=visits" />
+</div>
 
 ---
 
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,rust,python,nodejs,fastapi,postgres,docker,kubernetes,linux,git" />
-</p>
-
----
-
-## Selected Work
-
-| Project | Focus |
-|--------|------|
-| **turbo-cache** | High-performance caching system |
-| **apicraft** | API tooling and automation platform |
-| **MTProto proxy** | Low-level networking and protocol handling |
-| **Alive bot** | Secure Telegram automation system |
-| **Full Cleaner** | Lightweight Windows system utility |
-| **Telega audit** | Telegram client security research |
+```ts
+const aaxnet = {
+  focus:  ["backend architecture", "security research", "developer tooling"],
+  stack:  ["TypeScript", "Go", "Rust", "Python"],
+  infra:  ["PostgreSQL", "Docker", "Linux", "FastAPI"],
+  traits: ["performance-first", "minimal", "precise"],
+};
+```
 
 ---
 
-## Focus Areas
+**work**
 
-| Domain | Description |
-|-------|-------------|
-| Systems | Scalable backend architecture and distributed systems |
-| Security | Protocol analysis, reverse engineering, and client auditing |
-| Automation | Bots, schedulers, and infrastructure tooling |
-| Platforms | Telegram ecosystem, Android tooling, and APIs |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aaxnet&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaxnet&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaxnet&theme=github-dark-blue&hide_border=true" />
-</p>
+| &nbsp; | project | what it does |
+|:------:|---------|-------------|
+| `▸` | **turbo-cache** | high-performance caching system |
+| `▸` | **apicraft** | api tooling and automation platform |
+| `▸` | **mtproto-proxy** | low-level networking & protocol handling |
+| `▸` | **alive-bot** | secure telegram automation system |
+| `▸` | **full-cleaner** | lightweight windows system utility |
+| `▸` | **telega-audit** | telegram client security research |
 
 ---
 
-<p align="center">
-  Minimal. Precise. Built to last.
-</p>
+**stack**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,python,nodejs,fastapi,postgres,docker,linux,git&theme=dark" />
+</div>
+
+---
+
+**stats**
+
+<div align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=aaxnet&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&rank_icon=github" />
+  &nbsp;
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaxnet&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaxnet&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0000&ring=ffffff30&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+</div>
+
+---
+
+<div align="center">
+  <samp>minimal · precise · built to last</samp>
+</div>
