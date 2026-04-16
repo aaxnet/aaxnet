@@ -1,63 +1,64 @@
 <div align="center">
-
-```
-██████╗ ██████╗ ██╗  ██╗███╗   ██╗███████╗████████╗
-██╔══██╗██╔══██╗╚██╗██╔╝████╗  ██║██╔════╝╚══██╔══╝
-███████║███████║ ╚███╔╝ ██╔██╗ ██║█████╗     ██║   
-██╔══██║██╔══██║ ██╔██╗ ██║╚██╗██║██╔══╝     ██║   
-██║  ██║██║  ██║██╔╝ ██╗██║ ╚████║███████╗   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
-```
-
-</div>
-
-<div align="center">
-  <samp>
-    full-stack engineer &nbsp;·&nbsp; systems architect &nbsp;·&nbsp; open source
-  </samp>
+  <img src="./banner.svg" width="100%" alt="aaxnet" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/aaxnet">
-    <img src="https://img.shields.io/badge/-aaxnet-000?style=flat-square&logo=github&logoColor=fff" />
+    <img src="https://img.shields.io/badge/GitHub-aaxnet-000?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=aaxnet&style=flat-square&color=000000&label=visits" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Security-000?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Ukraine-000?style=flat-square&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=aaxnet&style=flat-square&color=000000&label=profile+views" />
 </div>
 
----
+<br />
 
-```ts
-const aaxnet = {
-  focus:  ["backend architecture", "security research", "developer tooling"],
-  stack:  ["TypeScript", "Go", "Rust", "Python"],
-  infra:  ["PostgreSQL", "Docker", "Linux", "FastAPI"],
-  traits: ["performance-first", "minimal", "precise"],
-};
-```
+<p align="center">
+  Full-stack engineer focused on backend architecture, security research, and developer tooling.<br />
+  I build things that are fast, reliable, and minimal by design.
+</p>
 
 ---
 
-**work**
-
-| &nbsp; | project | what it does |
-|:------:|---------|-------------|
-| `▸` | **turbo-cache** | high-performance caching system |
-| `▸` | **apicraft** | api tooling and automation platform |
-| `▸` | **mtproto-proxy** | low-level networking & protocol handling |
-| `▸` | **alive-bot** | secure telegram automation system |
-| `▸` | **full-cleaner** | lightweight windows system utility |
-| `▸` | **telega-audit** | telegram client security research |
-
----
-
-**stack**
+**languages**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,rust,python,nodejs,fastapi,postgres,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,python&theme=dark" />
 </div>
+
+<br />
+
+**backend & infra**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,docker,kubernetes,nginx,linux,git&theme=dark" />
+</div>
+
+<br />
+
+**tools & platforms**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,githubactions,bash,sqlite&theme=dark" />
+</div>
+
+---
+
+**selected projects**
+
+| project | stack | description |
+|---------|-------|-------------|
+| [**turbo-cache**](https://github.com/aaxnet) | `Go` | High-performance caching system |
+| [**apicraft**](https://github.com/aaxnet) | `TypeScript` | API tooling and automation platform |
+| [**mtproto-proxy**](https://github.com/aaxnet) | `Python` | Low-level MTProto networking & protocol handling |
+| [**alive-bot**](https://github.com/aaxnet) | `Python` | Secure Telegram check-in automation |
+| [**full-cleaner**](https://github.com/aaxnet) | `PowerShell` | Lightweight Windows system utility |
+| [**telega-audit**](https://github.com/aaxnet) | `Python` | Security research on Telegram clients |
 
 ---
 
@@ -76,5 +77,5 @@ const aaxnet = {
 ---
 
 <div align="center">
-  <samp>minimal · precise · built to last</samp>
+  <sub>minimal · precise · built to last</sub>
 </div>
